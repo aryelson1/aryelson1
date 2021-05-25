@@ -18,6 +18,6 @@ Engenheiro da computação com experiência na área de desenvolvimento de softw
   <a href="https://www.instagram.com/aryel.m/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricode/"/></a>
   
-  
-  <a href="https://mail.google.com/mail/u/0/#inbox" alt="Instagram">
+  <a href="mailto:aryelson.goncalves@academico.ifpb.edu.br" alt="Instagram">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  
