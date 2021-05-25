@@ -11,8 +11,13 @@ Engenheiro da computação com experiência na área de desenvolvimento de softw
  - 🛠 Ferramentas: <strong>VSCode, Git and GitHub.</strong>
  - 📪 <strong>Se deseja entrar em contato :</strong> 👇🏼
 
+
+  <a href="https://www.linkedin.com/in/aryelson-goncalves-messias-995002203/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+  
   <a href="https://www.instagram.com/aryel.m/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricode/"/></a>
   
-  <a href="https://www.linkedin.com/in/aryelson-goncalves-messias-995002203/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+  
+  <a href="https://mail.google.com/mail/u/0/#inbox" alt="Instagram">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
