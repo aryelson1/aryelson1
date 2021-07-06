@@ -20,8 +20,9 @@ Sou <strong>Estudante do 2º periodo do curso "Engenharia de computação"</stro
   
   <a href="mailto:aryelson.goncalves@academico.ifpb.edu.br" alt="Instagram">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <br>
+  
 <p align="center">
+ <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryelson1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="brunojpng"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryelson1&layout=compact&theme=dracula" />
 </p>
