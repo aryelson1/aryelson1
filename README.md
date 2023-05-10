@@ -23,7 +23,7 @@ Sou <strong>Estudante do 6º periodo do curso "Engenharia de computação"</stro
   
 <p align="center">
  <br>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=aryelson1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="brunojpng"/> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=aryelson1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Aryeljpng"/> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryelson1&layout=compact&theme=dracula" />
 </p>
 
