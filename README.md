@@ -2,7 +2,7 @@
 
 Meu nome é Aryelson Gonçalves 👱
 
-Sou <strong>Estudante do 6º periodo do curso "Engenharia de computação"</strong> no IFPB-Campus Campina Grande. Tenho experiência na área de desenvolvimento de software web e mobile , estou a procura de projeto para programador júnior, sou extremamente motivado, em constante desenvolvimento de minhas habilidades e crescimento profissional. atualmente possuo experiência: SQL, Java, Java script, PHP, HTML, CSS, Python e pacote. office. E estou adquirindo conhecimentos: C, C++, kotlin, JS , React e Ionic.
+Sou <strong>Estudante do 7º periodo do curso "Engenharia de computação"</strong> no IFPB-Campus Campina Grande. Tenho experiência na área de desenvolvimento de software web e mobile , estou a procura de projeto para programador júnior, sou extremamente motivado, em constante desenvolvimento de minhas habilidades e crescimento profissional. atualmente possuo experiência: SQL, Java, Java script, PHP, HTML, CSS, Python e pacote. office. E estou adquirindo conhecimentos: C, C++, kotlin, JS , React e Ionic.
 
 ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
 
