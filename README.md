@@ -1,16 +1,10 @@
 # Olá 👋
 
-Meu nome é Aryelson Gonçalves 👱
-
-Sou <strong>Estudante do 7º periodo do curso "Engenharia de computação"</strong> no IFPB-Campus Campina Grande. Tenho experiência na área de desenvolvimento de software web e mobile , estou a procura de projeto para programador júnior, sou extremamente motivado, em constante desenvolvimento de minhas habilidades e crescimento profissional. atualmente possuo experiência: SQL, Java, Java script, PHP, HTML, CSS, Python e pacote. office. E estou adquirindo conhecimentos: C, C++, kotlin, JS , React e Ionic.
+Meu nome é Aryelson Gonçalves 👱, estudante do 9º período do curso de "Engenharia de Computação" no IFPB-Campus Campina Grande. Tenho experiência na área de desenvolvimento de software web e mobile. Sou motivado, sempre em busca de aprendizado e crescimento profissional.
 
 ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
 
-
- - 📚 Estudando no momento: <strong>IONIC 5, ANGULAR 8, REACT E REACT NATIVE</strong>
- - 🛠 Ferramentas: <strong>VSCode, Git and GitHub.</strong>
- - 📪 <strong>Se deseja entrar em contato :</strong> 👇🏼
-
+### Contato 📪
 
   <a href="https://www.linkedin.com/in/aryelson-goncalves-messias-995002203/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
@@ -20,6 +14,9 @@ Sou <strong>Estudante do 7º periodo do curso "Engenharia de computação"</stro
   
   <a href="mailto:aryelson.goncalves@academico.ifpb.edu.br" alt="Instagram">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
+### Estatísticas 📊
   
 <p align="center">
  <br>
@@ -28,7 +25,8 @@ Sou <strong>Estudante do 7º periodo do curso "Engenharia de computação"</stro
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+### Linguagens e Ferramentas 🚀
+
 <p align="left"> <a href="https://angular.io" target="_blank"> 
  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> 
  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> 
