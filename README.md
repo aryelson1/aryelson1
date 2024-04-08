@@ -1,9 +1,3 @@
-# Olá 👋
-
-Meu nome é Aryelson Gonçalves 👱, estudante do 9º período do curso de "Engenharia de Computação" no IFPB-Campus Campina Grande. Tenho experiência na área de desenvolvimento de software web e mobile. Sou motivado, sempre em busca de aprendizado e crescimento profissional.
-
-### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
-
 ### Contato 📪
 
   <a href="https://www.linkedin.com/in/aryelson-goncalves-messias-995002203/" alt="Linkedin">
